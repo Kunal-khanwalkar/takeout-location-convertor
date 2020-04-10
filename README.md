@@ -11,4 +11,4 @@ optional arguments:
   -h, --help  show this help message and exit
 ***
 # Usage
-  <code>python3 formatconvertor.py <input> <output></code>
+  ```python3 formatconvertor.py <input> <output> ```
